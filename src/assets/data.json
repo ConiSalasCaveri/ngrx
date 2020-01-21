@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "tigre"
+    },
+    {
+      "id": 2,
+      "name": "jirafa"
+    },
+    {
+      "id": 3,
+      "name": "elefante"
+    },
+    {
+      "id": 4,
+      "name": "cebra"
+    },
+    {
+      "id": 5,
+      "name": "gacela"
+    }
+  ]
+}
